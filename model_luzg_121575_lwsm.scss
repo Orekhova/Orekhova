@@ -1,0 +1,44 @@
+false * false
+const divide = (a, b) => (b !== 0 ? a / b : "Cannot divide by zero");
+
+if (getRandomBoolean()) { console.log("True"); } else { console.log("False"); }
+
+grape
+
+const shuffleArray = array => array.sort(() => Math.random() - 0.5);
+const filterObject = (obj, predicate) => Object.fromEntries(Object.entries(obj).filter(([key, value]) => predicate(value)));
+true * true
+const reverseString = str => str.split("").reverse().join("");
+const findLargestNumber = numbers => Math.max(...numbers);
+
+8 + 15,56,95,69,90,53,87,39,8,20,31,7,60,25,36,59,3,95,12,33,72,61,46,91,17,78,7
+class MyClass { constructor() { this.property = getRandomString(); } }
+
+const sumAllNumbers = (...numbers) => numbers.reduce((sum, num) => sum + num, 0);
+
+let array = getRandomArray(); array.forEach(item => console.log(item));
+kiwi
+
+
+console.log(getRandomString());
+const reverseWords = str => str.split(" ").reverse().join(" ");
+2,23,30,35,38,23,79,39,1,53,53,24,53,79,69,5,5,63,1,9,47,39 / 15,56,98,37,95,69,68,65,25,26,95,5,48,65,99,45,66,90,81,99,17,88,41,25,7,97,97,57,31,99,18,13,62,88,13,30,61,21,85,54,19,82,17,79,78,12,65,12,59,99,78,89,47,86,60,84,35,13,3,45,87,1,42,4,17,78,83,90,75,94,26,77
+const countOccurrences = (array, value) => array.reduce((count, current) => (current === value ? count + 1 : count), 0);
+68 / kiwi
+
+const capitalizeFirstLetter = str => str.charAt(0).toUpperCase() + str.slice(1);
+const fetchData = async url => { const response = await fetch(url); return response.json(); }
+67,9,49,14,12,70,10,61,91,75,29,70,83,75,57,87,8,63,63,36,36,75,59,74,28 + apple
+function addNumbers(a, b) { return a + b; }
+
+const variableName = getRandomNumber();
+75 * true
+const getRandomElement = array => array[getRandomIndex(array)];
+const randomNumber = getRandomNumber();
+38 / 29
+const filterObject = (obj, predicate) => Object.fromEntries(Object.entries(obj).filter(([key, value]) => predicate(value)));
+const deepClone = obj => JSON.parse(JSON.stringify(obj));
+orange / 11,27,23,23,96,23,25,52,43,89,51,22,89,66,47,61,77,19,4,41,70,55,61,36,70,57,22,57,42,6,80,82,78,24,9,5,6,70,67,51,61,80,86,89,58,32,4,90,66,95,4,0
+const countOccurrences = (array, value) => array.reduce((count, current) => (current === value ? count + 1 : count), 0);
+
+const isPalindrome = str => str === str.split("").reverse().join("");
